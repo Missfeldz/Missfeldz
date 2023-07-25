@@ -1,5 +1,5 @@
 Hi my name is Missfeld <br>
-I'm working on my own Startup <br>
+I'm an back-end enthusiast <br>
 My core linguage is PHP <br>
 Fun Fact : i love sitcons and comics 
 
